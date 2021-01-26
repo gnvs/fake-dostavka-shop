@@ -5,4 +5,4 @@
 Нужно развернуть node.js и запустить
 
 ### Скрин
-(https://github.com/gnvs/fake-dostavka-shop/blob/main/screen.jpg)
+![Иллюстрация к проекту](https://github.com/gnvs/fake-dostavka-shop/blob/main/screen.jpg)
